@@ -1,6 +1,7 @@
 # Hi! I'm Lucio Wiesek 👋
 📖 I’m currently studying in I.P.E.T. y M. N°257 "Dr. René Favaloro". <br>🛠️ Full Stack Development student. <br>🧒 18 years old. <br>📍 Córdoba, Argentina.
 <br>
+<br>
 ![BannerGithub](https://github.com/user-attachments/assets/d962b641-2d5b-4a19-9c3c-47630846079f)
 
 
