@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=LucioWi&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LucioWi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=LucioWi&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
