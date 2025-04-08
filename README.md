@@ -1,6 +1,6 @@
 # Hi! I'm Lucio Wiesek <img src="https://github.com/user-attachments/assets/634f2f39-175b-4870-bf43-e3dcee63cdbf" width="2.5%">
 
-📖 I’m currently studying in UTN-FRC. <br>🛠️ Full Stack Development student. <br>🧒 18 years old. <br>📍 Córdoba, Argentina.
+📖 I’m currently studying in UTN-FRC. <br>🛠️ Full Stack Development student. <br>🧒 19 years old. <br>📍 Córdoba, Argentina.
 <br>
 <br>
 ![BannerGithub](https://github.com/user-attachments/assets/d962b641-2d5b-4a19-9c3c-47630846079f)
